@@ -1,1 +1,1 @@
-
+This project “INSTABOT” is a python based automation project which can be used to redirect to a browser and open instagram.com. It would then enter the login details in the specified section. This could then be used to follow people, unfollow people and like the first post in the feed. This program would be compatible with Firefox. Geckodriver for Firefox are installed in the program to directly open Firefox.
