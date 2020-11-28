@@ -1,0 +1,1 @@
+A large section of people would agree that they miss THE CLASSIC-SNAKE GAME. Here we were able to replicate the game with all its basic functions including a scoreboard randomly getting those snake food particles on the screen. Snake game is most probably the most basic game that can be made using python.
